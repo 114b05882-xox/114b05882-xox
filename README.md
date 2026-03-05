@@ -1,8 +1,8 @@
 ## Hi there 👋
-My major is shipping manegement.
-I love to dance and do it in my free time. 
-i have a dream is go abroad to live canda.
-good to see you everybody😊
+##My major is shipping manegement.
+##I love to dance and do it in my free time. 
+##i have a dream is go abroad to live canda.
+##good to see you everybody😊
 
 <!--
 **114b05882-xox/114b05882-xox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
