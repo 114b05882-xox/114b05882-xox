@@ -1,4 +1,7 @@
 ## Hi there 👋
+My major is shipping manegement.
+I love to dance and do it in my free time. 
+i have a dream is go abroad to live canda.
 good to see you everybody😊
 
 <!--
